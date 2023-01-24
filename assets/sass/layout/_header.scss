@@ -48,15 +48,15 @@
 		}
 
 		.logo {
-			width: 0rem;
-			height: 0rem;
-			line-height: 0rem;
-			border: solid _size(border-width) _palette(border);
-			border-radius: 0%;
+			width: 5.5rem;
+			height: 5.5rem;
+			line-height: 2rem;
+			border: transparent _size(border-width) _palette(border);
+			border-radius: 100%;
 
 			.icon {
 				&:before {
-					font-size: 0rem;
+					font-size: 2rem;
 				}
 			}
 		}
