@@ -1,9 +1,15 @@
+Page to invite guests to wedding
+
+Contain:
+Info about location
+Info how to get there
+Schedule
+Registration
+
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-Testing this again
 
 This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
 and a cool depth effect (click on a menu item to see what I mean). Simple, fully
