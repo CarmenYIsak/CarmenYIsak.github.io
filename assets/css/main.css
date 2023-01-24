@@ -1294,7 +1294,7 @@ input, select, textarea {
 			width: 0rem;
 			height: 0rem;
 			line-height: 0.1rem;
-			border: solid 1px #ffffff;
+			border: transparent 1px #ffffff;
 			border-radius: 0%;
 		}
 
